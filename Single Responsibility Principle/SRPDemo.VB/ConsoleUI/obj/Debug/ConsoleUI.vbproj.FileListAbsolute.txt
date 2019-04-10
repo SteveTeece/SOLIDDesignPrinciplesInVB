@@ -1,0 +1,11 @@
+D:\SourceCode\Design Patterns\SingleResponsibilityPrincipal\SRPDemoVisualBasic\SRPDemo.VB\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\SourceCode\Design Patterns\SingleResponsibilityPrincipal\SRPDemoVisualBasic\SRPDemo.VB\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\SourceCode\Design Patterns\SingleResponsibilityPrincipal\SRPDemoVisualBasic\SRPDemo.VB\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\SourceCode\Design Patterns\SingleResponsibilityPrincipal\SRPDemoVisualBasic\SRPDemo.VB\ConsoleUI\bin\Debug\ConsoleUI.xml
+D:\SourceCode\Design Patterns\SingleResponsibilityPrincipal\SRPDemoVisualBasic\SRPDemo.VB\ConsoleUI\obj\Debug\ConsoleUI.vbprojResolveAssemblyReference.cache
+D:\SourceCode\Design Patterns\SingleResponsibilityPrincipal\SRPDemoVisualBasic\SRPDemo.VB\ConsoleUI\obj\Debug\ConsoleUI.Resources.resources
+D:\SourceCode\Design Patterns\SingleResponsibilityPrincipal\SRPDemoVisualBasic\SRPDemo.VB\ConsoleUI\obj\Debug\ConsoleUI.vbproj.GenerateResource.cache
+D:\SourceCode\Design Patterns\SingleResponsibilityPrincipal\SRPDemoVisualBasic\SRPDemo.VB\ConsoleUI\obj\Debug\ConsoleUI.vbproj.CoreCompileInputs.cache
+D:\SourceCode\Design Patterns\SingleResponsibilityPrincipal\SRPDemoVisualBasic\SRPDemo.VB\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\SourceCode\Design Patterns\SingleResponsibilityPrincipal\SRPDemoVisualBasic\SRPDemo.VB\ConsoleUI\obj\Debug\ConsoleUI.xml
+D:\SourceCode\Design Patterns\SingleResponsibilityPrincipal\SRPDemoVisualBasic\SRPDemo.VB\ConsoleUI\obj\Debug\ConsoleUI.pdb

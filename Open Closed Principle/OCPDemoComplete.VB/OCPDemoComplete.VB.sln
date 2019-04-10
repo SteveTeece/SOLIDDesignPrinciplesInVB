@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleUI", "ConsoleUI\ConsoleUI.vbproj", "{E5DB7413-4B8F-45E3-A712-4AB5D926CB85}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OCPLibrary", "OCPLibrary\OCPLibrary.vbproj", "{D8220BBA-AE70-4123-B8F0-35436A2C4791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DB7413-4B8F-45E3-A712-4AB5D926CB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DB7413-4B8F-45E3-A712-4AB5D926CB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DB7413-4B8F-45E3-A712-4AB5D926CB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DB7413-4B8F-45E3-A712-4AB5D926CB85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8220BBA-AE70-4123-B8F0-35436A2C4791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8220BBA-AE70-4123-B8F0-35436A2C4791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8220BBA-AE70-4123-B8F0-35436A2C4791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8220BBA-AE70-4123-B8F0-35436A2C4791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4101343E-558C-4F07-B686-09BB7AC40333}
+	EndGlobalSection
+EndGlobal
